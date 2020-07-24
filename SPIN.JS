@@ -1,0 +1,10 @@
+ <animateTransform
+   attributeName="transform"
+   attributeType="XML"
+   type="rotate"
+   from="0"
+   to="360"
+   begin="0s"
+   dur="1s"
+   repeatCount="indefinite"></animateTransform>
+  </circle>
